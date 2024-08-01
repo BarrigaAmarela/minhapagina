@@ -8,8 +8,8 @@ body {
 
 /* Estilo do cabeçalho */
 header {
-    background-color: #dd1818; /* Define a cor de fundo do cabeçalho */
-    color: #c801ff; /* Define a cor do texto do cabeçalho */
+    background-color: #b6acac; /* Define a cor de fundo do cabeçalho */
+    color: #335499; /* Define a cor do texto do cabeçalho */
     text-align: center; /* Centraliza o texto do cabeçalho */
     padding: 1em 0; /* Adiciona preenchimento vertical ao cabeçalho */
 }
@@ -54,7 +54,7 @@ ul {
 
 /* Estilo dos itens da lista */
 ul li {
-    background: #e4e4e4; /* Define a cor de fundo dos itens da lista */
+    background: #7c92a7; /* Define a cor de fundo dos itens da lista */
     border: 2px solid #3498db; /* Adiciona uma borda colorida ao redor dos itens */
     border-radius: 5px; /* Adiciona bordas arredondadas aos itens */
     margin: 0; /* Remove a margem vertical dos itens */
